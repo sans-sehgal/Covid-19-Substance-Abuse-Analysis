@@ -13,10 +13,11 @@ The project utilizes various methodologies and frameworks, including sentiment a
   - Model: XLNet (Transformer)
 
 - Frequency Analysis:
-  - Model: PyTorch
+  - Frameworks: PyTorch, NLTK
 
 - Time Series Analysis:
-  - Models: ARIMA, sklearn, stat_models
+  - Models: ARIMA, 
+  - Frameworks: sklearn, stat_models
 
 Understanding the United Nations Sustainable Development Goals, particularly SDG 3 related to healthcare, is crucial to comprehending the significance of the project's methodologies.
 
@@ -24,8 +25,8 @@ Understanding the United Nations Sustainable Development Goals, particularly SDG
 The repository contains two datasets used for analysis:
 
 1. Sentiment Analysis Dataset:
-   - Reddit COVID Dataset: Size - 5MB
-   - Weekly Prevalence of COVID in the US: Size - Unspecified
+   - Reddit COVID Dataset: Size - 14GB
+   - Weekly Prevalence of COVID in the US: Size - 5MB
 
 2. Time Series Analysis Dataset:
    - COVID-19 Reported Patient Impact and Hospital Capacity: Size - 50MB
