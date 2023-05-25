@@ -1,5 +1,4 @@
 '''
-Team Members: Sanskar Sehgal, Akhilesh Boppana, Vivek Golani, Nikhil Desha
 This code classifies our posts into [ritical, major, moderate, minor, cosmetic] using a transformer based zero-shot classification model  
 Framewordks: Pytorch
 Concepts: Transformers

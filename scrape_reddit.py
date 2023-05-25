@@ -1,5 +1,4 @@
 '''
-Team Members: Sanskar Sehgal, Akhilesh Boppana, Vivek Golani, Nikhil Desha
 This code scrapes data from relevant subreddits and is added to our previously filtered dataset     
 Framewordks: 
 Concepts: 
