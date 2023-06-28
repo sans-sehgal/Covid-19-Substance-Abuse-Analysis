@@ -60,7 +60,7 @@ The project presents several key results:
    - Comparison of the forecasted values with the actual values, demonstrating the model's performance.
 
 ## Conclusion
-The project contributes to improving healthcare outcomes during pandemics by providing insights into substance abuse and mental health issues. The sentiment analysis identifies correlations between COVID-19 cases and post severity, while the time series analysis accurately forecasts hospital bed availability. The project aligns with the United Nations Sustainable Development Goal 3 and aims to prepare for future pandemics and improve mental health outcomes.
+The project contributes to improving healthcare outcomes during pandemics by providing insights into substance abuse and mental health issues. Our sentiment analysis found out the correlation between rise in COVID-19 cases and post severity to be more than 80% indicating significant impact of the pandemic on people's lives. The time series analysis accurately forecasted hospital bed availability at the country and state level with prediction accuracy of around 90%. The project aligns with the United Nations Sustainable Development Goal 3 and aims to prepare for future pandemics and improve mental health outcomes.
 
 ## References
 1. Impact of COVID on Mental Health: [Link](https://www.covidminds.org/)
